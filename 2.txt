@@ -5,3 +5,5 @@
 	Description on purpose of the project
 4. How to Contribute
 5. Deployment
+	Description on deployment task
+
