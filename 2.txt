@@ -1,9 +1,12 @@
 1. Starter Web project
+	Starter web description
 2.Introduction
 	Some description about project
 3.Purpose
 	Description on purpose of the project
 4. How to Contribute
+	Description on contribution
+	
 5. Deployment
 	Description on deployment task
 
